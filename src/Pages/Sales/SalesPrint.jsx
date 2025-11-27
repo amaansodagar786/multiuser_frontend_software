@@ -1,6 +1,6 @@
 import React from "react";
 import "./Salesprint.scss";
-import logo from "../../Assets/logo/jass_logo1.png";
+import logo from "../../Assets/logo/invoice_logo.png";
 
 const SalesPrint = ({ invoice }) => {
   if (!invoice) return null;
@@ -127,10 +127,10 @@ Only manufacturing defects are eligible for replacement<br /> within 1 day of pu
         <div className="invoice-header">
           <div className="company-top-info">
             <div className="company-name-left">
-              <p><strong>SFP SONS (INDIA) PRIVATE LIMITED</strong></p>
+              <p><strong>TECHORSES</strong></p>
             </div>
             <div className="gst-number-right">
-              <p>24AAICS9235N1ZS</p>
+              <p>24AAICS9235N...</p>
             </div>
           </div>
 
@@ -140,8 +140,8 @@ Only manufacturing defects are eligible for replacement<br /> within 1 day of pu
             </div>
             <div className="company-address">
               <div className="address-details">
-                <p>C/9, Laxmi Kunj Society, Part-2, Beside Shree Ayyappa</p>
-                <p>Temple, New Sama Road, Vadodara - 390024, Gujarat</p>
+                <p>B-224, Samanvay Silicon, Opp Kalyan Hotel, Dairy Den Circle,</p>
+                <p> Sayajigunj, Vadodara, 390020 (Gujarat, India)</p>
               </div>
             </div>
           </div>

@@ -12,7 +12,7 @@ import { RxCross1 } from "react-icons/rx";
 import { FiUser } from "react-icons/fi";
 import { MdDiscount } from "react-icons/md";
 
-import logo from "../../Assets/logo/jass_logo_new.png";
+import logo from "../../Assets/logo/logo.png";
 import "./Navbar.css";
 
 const STORE_MAP = {
